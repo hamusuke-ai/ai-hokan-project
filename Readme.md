@@ -7,5 +7,6 @@ through structure, semantics, and the philosophy of *Jittoku* (捨得):
 
 📄 View the visual map → [docs/MeaningMesh.pdf](./docs/MeaningMesh.pdf)  
 📄 View Layered AI Structure → [docs/LayerdeAIStructure.pdf](./docs/LayerdeAIStructure.pdf) 
-📘 Definitions → [terms.md]  
+🧠 Architecture → [architecture.md](./architecture.md)
+📘 Definitions → [docs/terms.md](./docs/terms.md)
 🧠 Architecture → [architecture.md]  
