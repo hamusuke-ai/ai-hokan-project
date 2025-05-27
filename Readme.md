@@ -6,6 +6,6 @@ through structure, semantics, and the philosophy of *Jittoku* (捨得):
 "to gain through letting go."
 
 📄 View the visual map → [docs/MeaningMesh.pdf](./docs/MeaningMesh.pdf)  
-📄 View Layered AI Structure → [docs/MeaningMesh.pdf](./docs/MeaningMesh.pdf) 
+📄 View Layered AI Structure → [docs/LayeredAIStructure.pdf](./docs/LayeredAIStructure.pdf) 
 📘 Definitions → [terms.md]  
 🧠 Architecture → [architecture.md]  
